@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f01b30a-9bfe-45f4-b62c-a1d380807823" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/test3/test01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +45,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="199" />
-    <option name="y" value="44" />
+    <option name="x" value="262" />
+    <option name="y" value="30" />
     <option name="width" value="1382" />
     <option name="height" value="654" />
   </component>
@@ -127,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614565581904</updated>
       <workItem from="1614565585080" duration="4366000" />
-      <workItem from="1614570625504" duration="781000" />
+      <workItem from="1614570625504" duration="1405000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1614566160597</created>
@@ -199,14 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614569843072</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add out">
+      <created>1614571425152</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614571425152</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5147000" />
+    <option name="totallyTimeSpent" value="5771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="199" y="44" width="1382" height="654" extended-state="0" />
+    <frame x="-29" y="21" width="1382" height="654" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -249,7 +254,8 @@
     <MESSAGE value="123145" />
     <MESSAGE value="1" />
     <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
+    <MESSAGE value="add out" />
+    <option name="LAST_COMMIT_MESSAGE" value="add out" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test01.java">
